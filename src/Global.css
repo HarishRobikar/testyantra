@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* table{
+    border: 2px solid red;
+    background-color:gray;   
+}
+ thead,th{
+    border: 2px solid black;
+    padding: 10px;
+    border-collapse: collapse;
+}
+tbody,tr,td{
+    border: 2px solid black;
+    padding: 10px;
+    color: black;
+    background-color: skyblue;
+    
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+a{
+    text-decoration: none;
+} */
+
+
+
+
+
+
+/* 
+table thead th{
+    border: 2px solid red;
+    background-color: gray;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    
+}
+table tbody tr td{
+    border: 2px solid black;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+a{
+    text-decoration: none;
+} */
+
+/* .movies{
+    border: 2px solid red;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:gray;
+    
+}
+.moviecard{
+    border: 2px solid black;
+    height: 300px;
+    width:250px ;
+    margin: 20px;
+    border-radius: 5px;
+
+   
+}
+
+
+img{
+    height: 50%;
+    width: 100%;
+    padding: 5px;
+} */

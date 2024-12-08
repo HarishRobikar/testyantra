@@ -1,0 +1,45 @@
+.Contact{
+    /* border: 2px solid red; */
+    /* background-color: aqua; */
+    height: 1000px;
+    width: 100%;
+    font-size: 50px;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.head{
+    height: 250px;
+    position: relative;
+}
+
+.head img{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.mainContent{
+    display: flex;
+    align-items: start;
+    width: 90%;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    position: absolute;
+    top: 10px;
+    color: #e8801e;
+    font-size: 22px;
+    font-weight: 700;
+    padding: 70px;
+}
+
+.mainContent p:nth-child(2){
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+
+}

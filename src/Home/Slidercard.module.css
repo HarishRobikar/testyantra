@@ -1,0 +1,15 @@
+.slide{
+    border: 1px solid black;
+    height: 10px;
+    /* border-radius: 20px; */
+}
+.slideimg{
+    /* border: 2px solid red; */
+    height: 399px;
+    width: 100%;
+    border-radius: 20px;
+}
+img{
+    /* border-radius: 20px; */
+    /* border-image-outset: 20px; */
+}
